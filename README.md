@@ -1,2 +1,1 @@
-# MarlinConfigurationsPersonalized
-Repository for strongly personalized Marlin configurations.
+CreailtyEnder5Plus/README.md
